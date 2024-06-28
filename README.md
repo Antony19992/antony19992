@@ -41,4 +41,3 @@ Estou sempre aberto a colaborar em projetos interessantes e inovadores. Se você
 **Vamos nos conectar!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/antony-felisardo-99956a197)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/antony19992)
